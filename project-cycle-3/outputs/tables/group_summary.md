@@ -1,0 +1,4 @@
+| Group | n | Current alcohol users | Proportion | Percent |
+| --- | --- | --- | --- | --- |
+| Female | 6425 | 2864 | 0.4458 | 44.6% |
+| Male | 6234 | 2853 | 0.4577 | 45.8% |

@@ -1,0 +1,2 @@
+comparison,female_n,male_n,female_successes,male_successes,female_proportion,male_proportion,difference_male_minus_female,ci_low,ci_high,z_statistic,p_value,alpha,reject_null
+Male - Female,6425,6234,2864,2853,0.4457587548638132,0.45765158806544753,0.011892833201634312,-0.005446764877567064,0.029232431280835688,1.344245502225726,0.17886901204413974,0.05,False
